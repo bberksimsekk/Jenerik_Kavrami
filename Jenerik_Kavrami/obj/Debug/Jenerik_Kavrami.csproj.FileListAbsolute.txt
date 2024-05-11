@@ -1,0 +1,7 @@
+C:\Users\Huawei\source\repos\Jenerik_Kavrami\Jenerik_Kavrami\bin\Debug\Jenerik_Kavrami.exe.config
+C:\Users\Huawei\source\repos\Jenerik_Kavrami\Jenerik_Kavrami\bin\Debug\Jenerik_Kavrami.exe
+C:\Users\Huawei\source\repos\Jenerik_Kavrami\Jenerik_Kavrami\bin\Debug\Jenerik_Kavrami.pdb
+C:\Users\Huawei\source\repos\Jenerik_Kavrami\Jenerik_Kavrami\obj\Debug\Jenerik_Kavrami.csproj.AssemblyReference.cache
+C:\Users\Huawei\source\repos\Jenerik_Kavrami\Jenerik_Kavrami\obj\Debug\Jenerik_Kavrami.csproj.CoreCompileInputs.cache
+C:\Users\Huawei\source\repos\Jenerik_Kavrami\Jenerik_Kavrami\obj\Debug\Jenerik_Kavrami.exe
+C:\Users\Huawei\source\repos\Jenerik_Kavrami\Jenerik_Kavrami\obj\Debug\Jenerik_Kavrami.pdb
